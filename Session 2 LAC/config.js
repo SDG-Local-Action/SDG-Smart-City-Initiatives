@@ -49,7 +49,7 @@ var config = {
             id: 'ch3',
             alignment: 'left',
             title: 'Belize City',
-            image: './assets/Belize-1.jpg',
+            image: './assets/belize-1.jpg',
             description: `
             Belize City is advancing its <b>Urban Sustainability and Smart City Project by integrating data-driven governance with community-centred planning</b>. Through the establishment of a dedicated GIS department and the revitalisation of public green spaces, the city is building both digital and physical foundations for long-term urban resilience. By embedding evidence-based decision-making into municipal operations and creating safe, inclusive public environments, these initiatives are enhancing everyday urban life while strengthening community cohesion.
             <br><br>
