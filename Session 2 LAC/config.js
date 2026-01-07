@@ -35,7 +35,7 @@ var config = {
             id: 'ch2',
             alignment: 'left',
             title: 'Buenos Aires',
-            image: 'Session 2 LAC/assets/belize-1.jpg',
+            image: 'Session 2 LAC/assets/Buenos Aires-2.jpg',
             description: `
             Buenos Aires is leveraging <b>AI-powered analytics to identify traffic incidents in real-time</b>, significantly reducing emergency response times. By integrating these digital tools into urban planning, the city is not just managing roads but also fostering safer, more efficient environments that directly enhance the daily livelihoods of its residents. 
             <br><br>
